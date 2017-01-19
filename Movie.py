@@ -6,9 +6,6 @@ Avatar=media.Movie("Avatar","Story of love in different worlds","https://upload.
 Okjannu=media.Movie("ok Jannu","story of love","http://fabnewz.com/wp-content/uploads/2016/12/ok-jaanu-poster-is-out.png","https://www.youtube.com/watch?v=HLdbAdya2po")
 Raees=media.Movie("Raees","story of a dacoit","http://images.mid-day.com/images/2015/jul/16-Raees-srk-poster.jpg","https://www.youtube.com/watch?v=J7_1MU3gDk0&t=44s")
 Jolly=media.Movie("Jolly LLB","","https://3.bp.blogspot.com/-n9nn6IiOq9s/WFeTamC4V5I/AAAAAAAAKWI/JG_QFP2jAxwQl5F1-4mP54H6agO_G7GUACLcB/s1600/jolly-llb-2-movie-trailer-launch-poster-wallpape-akshay-kumar.JPG","https://www.youtube.com/watch?v=kvjxoBG5euo")
-#print Mummy.story
-#dangal.show_trailer()
-#jaggajasoos.show_trailer()
 movies=[dangal,Okjannu,Raees,Jolly,Mummy,Avatar]
 fresh_tomatoes.open_movies_page(movies)
-#print media.Movie.__module__
+
